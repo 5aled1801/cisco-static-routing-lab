@@ -1,8 +1,8 @@
-\# Cisco Packet Tracer – Multi-Router Static Routing
+# Cisco Packet Tracer – Multi-Router Static Routing
 
 
 
-\## 📌 Project Overview
+## 📌 Project Overview
 
 
 
@@ -14,7 +14,7 @@ The main objective is to connect three different LAN networks through multiple r
 
 
 
-\## 🖥️ Network Topology
+## 🖥️ Network Topology
 
 
 
@@ -22,19 +22,19 @@ The network consists of:
 
 
 
-\- 3 Routers
+- 3 Routers
 
-\- 3 Switches
+- 3 Switches
 
-\- 6 PCs
+- 6 PCs
 
-\- 3 LAN Networks
+- 3 LAN Networks
 
-\- 1 Shared Inter-Router Network
+- 1 Shared Inter-Router Network
 
 
 
-\### Network Diagram
+### Network Diagram
 
 
 
@@ -42,7 +42,7 @@ The topology connects three separate LANs through a shared transit network (`192
 
 
 
-\## 🌐 IP Addressing Scheme
+## 🌐 IP Addressing Scheme
 
 
 
@@ -60,7 +60,7 @@ The topology connects three separate LANs through a shared transit network (`192
 
 
 
-\### Router Interfaces
+### Router Interfaces
 
 
 
@@ -82,31 +82,31 @@ The topology connects three separate LANs through a shared transit network (`192
 
 
 
-\## ⚙️ Technologies \& Concepts
+## ⚙️ Technologies \& Concepts
 
 
 
-\- Cisco Packet Tracer
+- Cisco Packet Tracer
 
-\- IPv4 Addressing
+- IPv4 Addressing
 
-\- Subnetting (/24)
+- Subnetting (/24)
 
-\- Router Configuration
+- Router Configuration
 
-\- Static Routing
+- Static Routing
 
-\- LAN Connectivity
+- LAN Connectivity
 
-\- Inter-Network Communication
+- Inter-Network Communication
 
-\- Default Gateway Configuration
+- Default Gateway Configuration
 
-\- ICMP (Ping Testing)
+- ICMP (Ping Testing)
 
 
 
-\## 🔧 Configuration
+## 🔧 Configuration
 
 
 
@@ -134,7 +134,7 @@ ip route 192.168.1.0 255.255.255.0 192.168.4.3
 
 
 
-\## 🧪 Testing \& Verification
+## 🧪 Testing \& Verification
 
 
 
@@ -160,7 +160,7 @@ The main testing objective is to verify communication between PCs located in dif
 
 
 
-\## 🎯 Learning Objectives
+## 🎯 Learning Objectives
 
 
 
@@ -168,33 +168,20 @@ Through this project, I practiced:
 
 
 
-\- Connecting multiple LAN networks using routers.
+- Connecting multiple LAN networks using routers.
 
-\- Configuring router interfaces with IPv4 addresses.
+- Configuring router interfaces with IPv4 addresses.
 
-\- Implementing static routing between multiple routers.
+- Implementing static routing between multiple routers.
 
-\- Understanding next-hop addresses.
+- Understanding next-hop addresses.
 
-\- Troubleshooting connectivity issues.
+- Troubleshooting connectivity issues.
 
-\- Verifying routing tables and end-to-end communication.
-
-
-
-\## 📁 Project Files
+- Verifying routing tables and end-to-end communication.
 
 
 
-\- `router basic config.pkt` – Cisco Packet Tracer project file.
-
-
-
-\---
-
-
-
-\*\*Author:\*\* Khaled Hassan
 
 
 
